@@ -1,0 +1,74 @@
+.ui-page{
+	color: white;
+	text-shadow: none;
+}
+
+#pick-home{
+	background-image: url(../img/background.jpg);
+	background-size: 100%;
+}
+
+#pick-home .ui-header{
+	
+	border: none;
+	color: white;
+	background: transparent;
+	text-align: center;
+}
+
+#pick-home .ui-header img {
+	width: 65px;
+	padding-top: 25%;
+
+}
+
+
+#pick-home .ui-header h1{
+	font-size: 28px;
+	font-weight: lighter;
+	margin: 0 25%;
+	color: white;
+}
+
+#pick-home .ui-content{
+	padding-top: 29%;
+}
+
+#pick-home .ui-content .btn1 {
+	box-shadow: none;
+	border: none;
+	text-shadow: none;
+	border-radius: 2px;
+	padding: 0 10px 0 50px;
+	height: 30px;
+	background-color: #f34344;
+	color: white;
+	font-size: 14px;
+	text-align: left;
+	font-weight: lighter;
+}
+#pick-home .ui-content .btn2 {
+	box-shadow: none;
+	border: none;
+	text-shadow: none;
+	border-radius: 2px;
+	padding: 0 10px 0 50px;
+	height: 30px;
+	background-color: #f0f0f0;
+	color: #515151;
+	font-size: 14px;
+	text-align: left;
+	font-weight: lighter;
+}
+
+#pick-home .ui-footer{
+	background-color: transparent;
+	border: none;
+}
+
+#pick-home .ui-footer h4{
+	padding-top: 20%;
+	color: white;
+}
+
+
